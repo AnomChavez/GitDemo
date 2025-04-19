@@ -1,4 +1,5 @@
 #just checking that the environment is working as expected
+#now checking that git is working as expected
 
 
 from selenium import webdriver
