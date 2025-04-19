@@ -1,0 +1,8 @@
+2025-04-13 14:16:25,241 :INFO :pytestsDemo.test_logging :Information statement
+2025-04-13 14:16:25,241 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2025-04-13 14:16:25,241 :ERROR :pytestsDemo.test_logging :A Major error has happened
+2025-04-13 14:16:25,241 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2025-04-13 14:18:36,913 :INFO :pytestsDemo.test_logging :Information statement
+2025-04-13 14:18:36,913 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2025-04-13 14:18:36,913 :ERROR :pytestsDemo.test_logging :A Major error has happened
+2025-04-13 14:18:36,913 :CRITICAL :pytestsDemo.test_logging :Critical issue

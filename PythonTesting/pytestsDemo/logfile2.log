@@ -1,0 +1,4 @@
+2025-04-13 14:21:52,024 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2025-04-13 14:44:33,702 :INFO :pytestsDemo.BaseClass :Rahul
+2025-04-13 14:44:33,702 :INFO :pytestsDemo.BaseClass :rahulshettyacademy.com
+2025-04-13 14:57:04,416 :CRITICAL :pytestsDemo.test_logging :Critical issue
